@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+[![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://github.com/AngomRanjan)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# hello-rails-Front-end
 
-## Available Scripts
+React Front-end.
 
-In the project directory, you can run:
+## Built with
+  - React
+  - Redux Tooolkit
+  - Axios
 
-### `npm start`
+## Pre-requsite
+  - React
+  - Redux Tooolkit
+  - Axios
+  - Tailwindcss
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
+ To get a local copy of this project, open your terminal and type:
+  - git clone https://github.com/AngomRanjan/mytutor.git
+  - cd nova
+  - npm install
+  - npm start 
+ That's it! You can play with it as you wish 😄
+ 
+### Authors
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### 👤 Angom Chittaranjan
 
-### `npm test`
+- GitHub: [@AngomRanjan](https://github.com/AngomRanjan)
+- Twitter: [@RanjanAngom](https://twitter.com/RanjanAngom)
+- LinkedIn: [angom-chittaranjan](https://linkedin.com/in/angom-chittaranjan)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Show your support
+Give a [⭐️](../../stargazers) if you like this project!
 
-### `npm run build`
+### 🤝 Contributing
+Contributions, [issues](https://github.com/AngomRanjan/hello-react-front-end/issues), and feature requests are welcome! Feel free to check the issues page.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :footprints: Track Me
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a href="https://twitter.com/RanjanAngom?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">
+<img src="https://img.shields.io/badge/-@RanjanAngom-blue?style=flat&logo=twitter&logoColor=white">
+</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a class="github-button" href="https://github.com/AngomRanjan" aria-label="Follow @AngomRanjan on GitHub">
+ <img src="https://img.shields.io/badge/-@AngomRanjan-green?style=flat&logo=github&logoColor=white">
+</a>
 
-### `npm run eject`
+### Acknowledgments
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- My Family.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](LICENSE) licensed.

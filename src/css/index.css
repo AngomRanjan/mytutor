@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* stylelint-disable  -- @layer*/
+@layer base {
+  [type='text'],
+  [type='email'],
+  [type='url'],
+  [type='password'],
+  [type='number'],
+  [type='date'],
+  [type='datetime-local'],
+  [type='month'],
+  [type='search'],
+  [type='tel'],
+  [type='time'],
+  [type='week'],
+  [multiple],
+  textarea,
+  select {
+    @apply placeholder-transparent w-full border-gray-300 rounded-lg shadow-sm focus:border-lime-200 focus:ring-lime-200;
+  }
+
+  [type='checkbox'],
+  [type='radio'],
+  select {
+    @apply rounded;
+  }
+}
+
+@layer components {
+  .float__lbl {
+    @apply absolute px-1 z-10 bg-white left-2 -top-[11px] text-sm font-bold text-lime-300
+      transition-all
+      peer-placeholder-shown:text-gray-500
+    peer-placeholder-shown:font-normal
+    peer-placeholder-shown:bg-transparent
+    peer-placeholder-shown:top-[9px]
+    peer-placeholder-shown:text-base
+    peer-focus:left-2
+    peer-focus:-top-[11px]
+    peer-focus:font-bold
+    peer-focus:text-sm
+    peer-focus:text-lime-300
+    peer-focus:bg-white;
+  }
+}
