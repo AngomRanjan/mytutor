@@ -1,7 +1,9 @@
+import Signup from './components/Signup';
+
 function App() {
   return (
     <div className="flex justify-center items-center h-screen">
-      <h1>Hi</h1>
+      <Signup />
     </div>
   );
 }
